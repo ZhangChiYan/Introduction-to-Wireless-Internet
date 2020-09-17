@@ -7,11 +7,13 @@
   - 實作 LBS 課程中，使用 RSS 訊號地圖的定位方法。
   
 - 目標：
-  > 1. 以R語言撰寫
-  > 2. 實作 1NN、3NN、5NN 比對方法，並計算定位錯誤率。
+  > 1 以R語言撰寫
+  > 2 實作 1NN、3NN、5NN 比對方法，並計算定位錯誤率。
 
 - 前置步驟：
-  > 1. 從網路上下載 UJIIndoorLoc dataset，免除 offline 資料收集步驟  http://indoorlocplatform.uji.es/databases/get/1/  https://www.kaggle.com/giantuji/UjiIndoorLoc
+  > 1 從網路上下載 UJIIndoorLoc dataset，免除 offline 資料收集步驟  
+    http://indoorlocplatform.uji.es/databases/get/1/  
+    https://www.kaggle.com/giantuji/UjiIndoorLoc
     - TrainingData.csv: 用來訓練之 radio database。
     - ValidationData.csv: 用來驗證效果之 radio database。
     
