@@ -32,25 +32,25 @@
 - 實驗結果  
   顯示 1NN、3NN、5NN 之誤差平均值與直方圖，
   - 1NN - 以距離最近的 fingerprint 其代表的位置作為預估的位置  
-  <p align="left">
-    <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/1.jpg" />
-  </p>
+    <p align="left">
+      <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/1.jpg" />
+    </p>
   - 3NN - 將其 3 個座標值”平均”作為預估位置
-  <p align="left">
-    <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/2.jpg" />
-  </p>
+    <p align="left">
+      <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/2.jpg" />
+    </p>
   - 3NN - 參考網址中權重計算的作法(weight)
-  <p align="left">
-    <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/3.jpg" />
-  </p>
+    <p align="left">
+      <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/3.jpg" />
+    </p>
   - 5NN - 將其 5 個座標值”平均”作為預估位置
-  <p align="left">
-    <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/4.jpg" />
-  </p>
+    <p align="left">
+      <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/4.jpg" />
+    </p>
   - 5NN - 參考網址中權重計算的作法(weight)
-  <p align="left">
-    <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/5.jpg" />
-  </p>
+    <p align="left">
+      <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/5.jpg" />
+    </p>
 
 - 結果驗證  
   若要驗證實作出的結果是否正確，可與下方網址中的結果作比較
