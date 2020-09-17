@@ -23,9 +23,9 @@
    2. 採用 Euclidean distance 作為 distance 計算之演算法，撰寫對應之程式。  
    某筆資料中未偵測到的 AP 訊號可定為 100 或是-104。  
    3. 讀入 ValiationData.csv。  
-   4-1. 一筆資料做一次測試，將新的 fingerprint 與 radio database 的每項計算 distance，以距離最近的 fingerprint 其代表的位置作為預估的位置，並計算真實座標與預估座標的誤差。  
+   - 一筆資料做一次測試，將新的 fingerprint 與 radio database 的每項計算 distance，以距離最近的 fingerprint 其代表的位置作為預估的位置，並計算真實座標與預估座標的誤差。  
    最後計算 ValidationData 中的各自距離誤差與平均值，繪製成直方圖。  
-   4-2. 改採用 KNN (K = 3 或 5)的方法，挑選最近 K 筆資料將其 K 個座標值平均作為預估位置，並計算 ValidationData 中距離誤差與平均值，並繪製成直方圖。
+   - 改採用 KNN (K = 3 或 5)的方法，挑選最近 K 筆資料將其 K 個座標值平均作為預估位置，並計算 ValidationData 中距離誤差與平均值，並繪製成直方圖。
  - 額外實驗
    - 在計算平均時，改成參考網址中權重計算的作法。
  
