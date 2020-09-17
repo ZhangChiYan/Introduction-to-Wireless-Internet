@@ -29,25 +29,25 @@
  - 額外實驗
    - 在計算平均時，改成參考網址中權重計算的作法。
  
-- 實驗結果
-  - 顯示 1NN、3NN、5NN 之誤差平均值與直方圖，
-  > 1. 1NN - 以距離最近的 fingerprint 其代表的位置作為預估的位置  
+- 實驗結果  
+  顯示 1NN、3NN、5NN 之誤差平均值與直方圖，
+  - 1NN - 以距離最近的 fingerprint 其代表的位置作為預估的位置  
   <p align="left">
     <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/1.jpg" />
   </p>
-  > 2. 3NN - 將其 3 個座標值”平均”作為預估位置
+  - 3NN - 將其 3 個座標值”平均”作為預估位置
   <p align="left">
     <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/2.jpg" />
   </p>
-  > 3. 3NN - 參考網址中權重計算的作法(weight)
+  - 3NN - 參考網址中權重計算的作法(weight)
   <p align="left">
     <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/3.jpg" />
   </p>
-  > 4. 5NN - 將其 5 個座標值”平均”作為預估位置
+  - 5NN - 將其 5 個座標值”平均”作為預估位置
   <p align="left">
     <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/4.jpg" />
   </p>
-  > 5. 5NN - 參考網址中權重計算的作法(weight)
+  - 5NN - 參考網址中權重計算的作法(weight)
   <p align="left">
     <img src="https://github.com/ZhangChiYan/Introduction-to-Wireless-Internet/blob/master/md_img/5.jpg" />
   </p>
